@@ -13,6 +13,7 @@ Nexora is a modern, responsive landing page project designed with a clean interf
 ## 🛠️ Tech Stack
 
 - **Framework:** Next.js
+- **Frontend Library:** React.js
 - **Language:** JavaScript
 - **Styling:** CSS
 - **Package Manager:** npm
