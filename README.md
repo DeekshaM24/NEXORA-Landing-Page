@@ -22,7 +22,7 @@ Nexora is a modern, responsive landing page project designed with a clean interf
 
 Explore the deployed Nexora landing page here:
 
-[**View Live Website**](https://chatgpt.com/c/YOUR_DEPLOYED_WEBSITE_LINK)
+**View Live Website** -->https://nexora-landing-page-nu-vert.vercel.app/
 
 > Replace `YOUR_DEPLOYED_WEBSITE_LINK` with your actual published website URL.
 
