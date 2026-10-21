@@ -22,7 +22,7 @@ Nexora is a modern, responsive landing page project designed with a clean interf
 
 Explore the deployed Nexora landing page here:
 
-**[View Live Website](YOUR_DEPLOYED_WEBSITE_LINK)**
+[**View Live Website**](https://chatgpt.com/c/YOUR_DEPLOYED_WEBSITE_LINK)
 
 > Replace `YOUR_DEPLOYED_WEBSITE_LINK` with your actual published website URL.
 
@@ -30,16 +30,15 @@ Explore the deployed Nexora landing page here:
 
 ```text
 Nexora/
-├── public/             # Static assets
-├── app/                # Application pages and layouts
-├── package.json        # Project dependencies and scripts
-├── jsconfig.json       # JavaScript configuration
-├── eslint.config.mjs   # ESLint configuration
+├── app/                # Application pages, layouts, and styles
+├── components/         # Reusable UI components
+├── data/               # Project data and content
+├── public/             # Static assets and images
 ├── .gitignore          # Files excluded from Git
-└── README.md           # Project documentation
+├── jsconfig.json       # JavaScript configuration
+├── next.config.js      # Next.js configuration
+└── package.json        # Project dependencies and scripts
 ```
-
-*Note: The structure above is illustrative and may differ from the actual project.*
 
 ## 📌 Project Status
 
@@ -53,8 +52,8 @@ Aspiring Software Developer | Frontend Development Enthusiast
 
 Passionate about creating modern, user-friendly web experiences and exploring new technologies through hands-on projects.
 
-- **GitHub:** [Visit My GitHub Profile](YOUR_GITHUB_PROFILE_LINK)
-- **LinkedIn:** [Connect with Me](YOUR_LINKEDIN_PROFILE_LINK)
+- **GitHub:** [Visit My GitHub Profile](https://chatgpt.com/c/YOUR_GITHUB_PROFILE_LINK)
+- **LinkedIn:** [Connect with Me](https://chatgpt.com/c/YOUR_LINKEDIN_PROFILE_LINK)
 
 ## 📄 License
 
