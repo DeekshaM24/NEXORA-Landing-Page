@@ -52,8 +52,8 @@ Aspiring Software Developer | Frontend Development Enthusiast
 
 Passionate about creating modern, user-friendly web experiences and exploring new technologies through hands-on projects.
 
-- **GitHub:** [Visit My GitHub Profile](https://chatgpt.com/c/YOUR_GITHUB_PROFILE_LINK)
-- **LinkedIn:** [Connect with Me](https://chatgpt.com/c/YOUR_LINKEDIN_PROFILE_LINK)
+- **GitHub:** [Visit My GitHub Profile] 
+- **LinkedIn:** Connect with Me --> www.linkedin.com/in/deeksha-m-a43351343
 
 ## 📄 License
 
