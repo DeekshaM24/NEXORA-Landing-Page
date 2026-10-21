@@ -52,7 +52,7 @@ Aspiring Software Developer | Frontend Development Enthusiast
 
 Passionate about creating modern, user-friendly web experiences and exploring new technologies through hands-on projects.
 
-- **GitHub:** [Visit My GitHub Profile] 
+- **GitHub:** Visit My GitHub Profile --> https://github.com/DeekshaM24
 - **LinkedIn:** Connect with Me --> www.linkedin.com/in/deeksha-m-a43351343
 
 ## 📄 License
